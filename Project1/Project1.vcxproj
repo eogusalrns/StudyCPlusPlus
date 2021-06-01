@@ -140,19 +140,48 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="access.cpp" />
     <ClCompile Include="bool.cpp" />
+    <ClCompile Include="CarClass.cpp" />
+    <ClCompile Include="check.cpp" />
     <ClCompile Include="cinout.cpp" />
+    <ClCompile Include="Construct.cpp" />
+    <ClCompile Include="ConstructOverload.cpp" />
+    <ClCompile Include="ConvertClass.cpp" />
+    <ClCompile Include="CopyConstructor.cpp" />
+    <ClCompile Include="DefConstructor.cpp" />
     <ClCompile Include="defpara.cpp" />
+    <ClCompile Include="Destructor.cpp" />
+    <ClCompile Include="double2Time.cpp" />
+    <ClCompile Include="FriendClass.cpp" />
+    <ClCompile Include="FriendFunc.cpp" />
+    <ClCompile Include="FriendMember.cpp" />
+    <ClCompile Include="HumanCopy.cpp" />
+    <ClCompile Include="HumanStruct.cpp" />
+    <ClCompile Include="HumanType.cpp" />
+    <ClCompile Include="InfoHide.cpp" />
+    <ClCompile Include="InitConstMember.cpp" />
+    <ClCompile Include="InitRefMemberr.cpp" />
+    <ClCompile Include="Int2Time.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="newarray.cpp" />
+    <ClCompile Include="newHuman.cpp" />
+    <ClCompile Include="NoDefCon.cpp" />
     <ClCompile Include="Overload.cpp" />
     <ClCompile Include="pitness.cpp" />
+    <ClCompile Include="ptroverload.cpp" />
+    <ClCompile Include="randfunc.cpp" />
     <ClCompile Include="ref1.cpp" />
     <ClCompile Include="refptr.cpp" />
+    <ClCompile Include="selftest132.cpp" />
+    <ClCompile Include="sort.cpp" />
     <ClCompile Include="tagtype.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="Time.cpp" />
+    <ClCompile Include="TimeCopy.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\PKNU\Downloads\CStudy180314\cursor.h" />
+    <ClInclude Include="C:\Users\PKNU\Desktop\CStudy180314\cursor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
