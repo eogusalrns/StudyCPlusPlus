@@ -141,21 +141,27 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="access.cpp" />
+    <ClCompile Include="AddOperator.cpp" />
     <ClCompile Include="bool.cpp" />
     <ClCompile Include="CarClass.cpp" />
     <ClCompile Include="check.cpp" />
     <ClCompile Include="cinout.cpp" />
+    <ClCompile Include="ConstMember.cpp" />
+    <ClCompile Include="ConstMemberInit.cpp" />
     <ClCompile Include="Construct.cpp" />
     <ClCompile Include="ConstructOverload.cpp" />
     <ClCompile Include="ConvertClass.cpp" />
     <ClCompile Include="CopyConstructor.cpp" />
+    <ClCompile Include="CountMember.cpp" />
     <ClCompile Include="DefConstructor.cpp" />
     <ClCompile Include="defpara.cpp" />
     <ClCompile Include="Destructor.cpp" />
     <ClCompile Include="double2Time.cpp" />
+    <ClCompile Include="File.cpp" />
     <ClCompile Include="FriendClass.cpp" />
     <ClCompile Include="FriendFunc.cpp" />
     <ClCompile Include="FriendMember.cpp" />
+    <ClCompile Include="GlobalInit.cpp" />
     <ClCompile Include="HumanCopy.cpp" />
     <ClCompile Include="HumanStruct.cpp" />
     <ClCompile Include="HumanType.cpp" />
@@ -164,20 +170,28 @@
     <ClCompile Include="InitRefMemberr.cpp" />
     <ClCompile Include="Int2Time.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="mutable.cpp" />
     <ClCompile Include="newarray.cpp" />
     <ClCompile Include="newHuman.cpp" />
     <ClCompile Include="NoDefCon.cpp" />
+    <ClCompile Include="ObjCount.cpp" />
     <ClCompile Include="Overload.cpp" />
     <ClCompile Include="pitness.cpp" />
     <ClCompile Include="ptroverload.cpp" />
     <ClCompile Include="randfunc.cpp" />
+    <ClCompile Include="ReadOnlyInit.cpp" />
     <ClCompile Include="ref1.cpp" />
     <ClCompile Include="refptr.cpp" />
     <ClCompile Include="selftest132.cpp" />
     <ClCompile Include="sort.cpp" />
+    <ClCompile Include="StaticConst.cpp" />
+    <ClCompile Include="StaticFunc.cpp" />
+    <ClCompile Include="statictest.cpp" />
     <ClCompile Include="tagtype.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="this.cpp" />
     <ClCompile Include="Time.cpp" />
+    <ClCompile Include="TimeAdd.cpp" />
     <ClCompile Include="TimeCopy.cpp" />
   </ItemGroup>
   <ItemGroup>
