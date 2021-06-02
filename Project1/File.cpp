@@ -51,7 +51,7 @@ int main()
 	MyTest obj;
 	obj = obj1.sum(obj2);
 	obj.printData();
-
+	 
 	MyTest plus;
 	plus = obj1 + obj2;
 	plus.printData();
